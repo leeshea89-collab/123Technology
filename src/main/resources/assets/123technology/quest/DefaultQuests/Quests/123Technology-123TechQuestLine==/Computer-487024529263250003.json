@@ -2,7 +2,7 @@
   "properties:10": {
     "betterquesting:10": {
       "autoClaim:1": 0,
-      "desc:8": "§a【Tier 8 UV】异星量子超级计算机§r\n来自异星文明的量子级超级计算机，生成算力（Computing Power）。\n冷却液需求公式：(算力/50) × 超频^1.2 × 超压^0.6 L/tick\n需持续消耗大量超级冷却液和电力才能运行；冷却液不足时机器将停止工作。",
+      "desc:8": "§a[Tier 8 UV] Alien Quantum Supercomputer§r\nA quantum supercomputer from an extraterrestrial civilisation that generates Computing Power.\nCoolant requirement: (Computing Power / 50) × overclock^1.2 × overvoltage^0.6 L/tick.\nRequires a continuous supply of large quantities of supercoolant and electricity. The machine stops if it runs short of coolant.",
       "globalShare:1": 0,
       "icon:10": {
         "Count:3": 1,
@@ -13,7 +13,7 @@
       "isMain:1": 0,
       "isSilent:1": 0,
       "lockedProgress:1": 0,
-      "name:8": "【Tier 8 UV】异星量子超级计算机",
+      "name:8": "[Tier 8 UV] Alien Quantum Supercomputer",
       "questLogic:8": "AND",
       "repeatTime:3": -1,
       "repeat_relative:1": 1,
@@ -24,8 +24,8 @@
       "visibility:8": "NORMAL"
     }
   },
-  "questIDHigh:4": 487024529263250003,
-  "questIDLow:4": -5850697801590345394,
+  "questIDHigh:4": 487024529263250000,
+  "questIDLow:4": -5850697801590346000,
   "rewards:9": {},
   "tasks:9": {
     "0:10": {
@@ -48,8 +48,8 @@
   },
   "preRequisites:9": {
     "0:10": {
-      "questIDHigh:4": 7722944585155103069,
-      "questIDLow:4": -9190758031382520942
+      "questIDHigh:4": 7722944585155103000,
+      "questIDLow:4": -9190758031382521000
     }
   }
 }
