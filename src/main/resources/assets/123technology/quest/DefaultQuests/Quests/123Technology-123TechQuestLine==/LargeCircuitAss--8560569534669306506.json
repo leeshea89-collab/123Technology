@@ -2,7 +2,7 @@
   "properties:10": {
     "betterquesting:10": {
       "autoClaim:1": 0,
-      "desc:8": "§a【Tier 5 IV】大型电路组装机§r\n专为批量制造电路板设计的大型多方块组装机。\n覆盖从 LV 到 UHV 全电压等级的电路组装配方。\n支持并行加工，大幅节省中后期游戏电路制造时间。\n线圈等级越高，生产速度越快、并行数越多。\n电路需求贯穿整个游戏进程，此机器是不可或缺的核心设施。",
+      "desc:8": "§a[Tier 5 IV] Large Circuit Assembler§r\nA large multiblock assembler designed for mass-producing circuits.\nSupports circuit assembly recipes from LV through UHV.\nParallel processing saves a great deal of time in the mid and late game.\nHigher coil tiers increase both production speed and the number of parallel recipes.\nCircuits are needed throughout the entire game, making this an essential production machine.",
       "globalShare:1": 0,
       "icon:10": {
         "Count:3": 1,
@@ -13,7 +13,7 @@
       "isMain:1": 0,
       "isSilent:1": 0,
       "lockedProgress:1": 0,
-      "name:8": "【Tier 5 IV】大型电路组装机",
+      "name:8": "[Tier 5 IV] Large Circuit Assembler",
       "questLogic:8": "AND",
       "repeatTime:3": -1,
       "repeat_relative:1": 1,
@@ -24,8 +24,8 @@
       "visibility:8": "NORMAL"
     }
   },
-  "questIDHigh:4": -8560569534669306506,
-  "questIDLow:4": -6328362833442655743,
+  "questIDHigh:4": -8560569534669307000,
+  "questIDLow:4": -6328362833442655000,
   "rewards:9": {},
   "tasks:9": {
     "0:10": {
@@ -48,8 +48,8 @@
   },
   "preRequisites:9": {
     "0:10": {
-      "questIDHigh:4": 7722944585155103069,
-      "questIDLow:4": -9190758031382520942
+      "questIDHigh:4": 7722944585155103000,
+      "questIDLow:4": -9190758031382521000
     }
   }
 }
