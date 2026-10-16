@@ -2,7 +2,7 @@
   "properties:10": {
     "betterquesting:10": {
       "autoClaim:1": 0,
-      "desc:8": "§a【Tier 6 LuV】终极压缩巨型加工厂§r\n123T 核心旗舰机器——终极压缩巨型加工厂。\n集成十五种工业加工模式（螺丝刀切换类，编程电路20/21/22切换内部模式):\n  Metal 类: 压缩机、车床、电力磁化机\n  Fluid 类: 发酵槽、流体提取机、提取机\n  Misc  类: 激光蚀刻机、高压釜、流体固化机\n  Isa   类: 艾萨研磨机、工业浮选机、真空干燥炉\n  Col   类: 分子重组仪、酿造室、流体加热机\n并行公式：电压等级提高一级并行-2，最低9，默认256。",
+      "desc:8": "§a[Tier 6 LuV] Ultimate Compact Mega Processing Factory§r\n123T's flagship machine: the Ultimate Compact Mega Processing Factory.\nCombines fifteen industrial processing modes. Switch categories with a screwdriver; use programmed circuits 20/21/22 to switch modes within a category:\n  Metal: Compressor, Lathe, Electromagnetic Polariser\n  Fluid: Fermenter, Fluid Extractor, Extractor\n  Misc: Laser Engraver, Autoclave, Fluid Solidifier\n  Isa: Isa Grinder, Industrial Flotation Cell, Vacuum Drying Furnace\n  Col: Molecular Reassembler, Brewery, Fluid Heater\nParallel rule: each additional voltage tier reduces parallel operations by 2, down to a minimum of 9; base parallel: 256.",
       "globalShare:1": 0,
       "icon:10": {
         "Count:3": 1,
@@ -13,7 +13,7 @@
       "isMain:1": 0,
       "isSilent:1": 0,
       "lockedProgress:1": 0,
-      "name:8": "【Tier 6 LuV】终极压缩巨型加工厂",
+      "name:8": "[Tier 6 LuV] Ultimate Compact Mega Processing Factory",
       "questLogic:8": "AND",
       "repeatTime:3": -1,
       "repeat_relative:1": 1,
@@ -24,8 +24,8 @@
       "visibility:8": "NORMAL"
     }
   },
-  "questIDHigh:4": -4046027631891429286,
-  "questIDLow:4": -5885043488198819751,
+  "questIDHigh:4": -4046027631891429400,
+  "questIDLow:4": -5885043488198820000,
   "rewards:9": {},
   "tasks:9": {
     "0:10": {
@@ -48,8 +48,8 @@
   },
   "preRequisites:9": {
     "0:10": {
-      "questIDHigh:4": 7722944585155103069,
-      "questIDLow:4": -9190758031382520942
+      "questIDHigh:4": 7722944585155103000,
+      "questIDLow:4": -9190758031382521000
     }
   }
 }
