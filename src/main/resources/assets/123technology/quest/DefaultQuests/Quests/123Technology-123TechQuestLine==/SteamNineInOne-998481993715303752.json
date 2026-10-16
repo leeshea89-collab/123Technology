@@ -2,7 +2,7 @@
   "properties:10": {
     "betterquesting:10": {
       "autoClaim:1": 0,
-      "desc:8": "§a【Tier 0.5 蒸汽】小型蒸汽加工厂§r\n最早可制作的123T多方块机器，在蒸汽时代（Tier 0.5）即可建造。\n集成蒸汽熔炉、蒸汽压缩机、蒸汽锤击等多种蒸汽配方。\n以蒸汽（Steam）驱动，无需任何电力输入，耗电约 4 EU/t 等效。\n是蒸汽时代向低压电时代过渡的核心多方块生产设施。",
+      "desc:8": "§a[Tier 0.5 Steam] Compact Steam Processing Plant§r\nThe first 123T multiblock you can build, available in the Steam Age (Tier 0.5).\nCombines several steam-based recipes, including the Steam Furnace, Steam Compressor and Steam Hammer.\nRuns on steam with no electrical input; approximately equivalent to 4 EU/t of power.\nA key multiblock for the transition from steam power to the Low Voltage age.",
       "globalShare:1": 0,
       "icon:10": {
         "Count:3": 1,
@@ -13,7 +13,7 @@
       "isMain:1": 0,
       "isSilent:1": 0,
       "lockedProgress:1": 0,
-      "name:8": "【Tier 0.5 蒸汽】小型蒸汽加工厂",
+      "name:8": "[Tier 0.5 Steam] Compact Steam Processing Plant",
       "questLogic:8": "AND",
       "repeatTime:3": -1,
       "repeat_relative:1": 1,
@@ -24,8 +24,8 @@
       "visibility:8": "NORMAL"
     }
   },
-  "questIDHigh:4": 998481993715303752,
-  "questIDLow:4": -5900985616342128605,
+  "questIDHigh:4": 998481993715303800,
+  "questIDLow:4": -5900985616342129000,
   "rewards:9": {},
   "tasks:9": {
     "0:10": {
@@ -48,8 +48,8 @@
   },
   "preRequisites:9": {
     "0:10": {
-      "questIDHigh:4": 7722944585155103069,
-      "questIDLow:4": -9190758031382520942
+      "questIDHigh:4": 7722944585155103000,
+      "questIDLow:4": -9190758031382521000
     }
   }
 }
