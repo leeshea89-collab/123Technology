@@ -2,7 +2,7 @@
   "properties:10": {
     "betterquesting:10": {
       "autoClaim:1": 0,
-      "desc:8": "§a【Tier 3 HV】食物发电机§r\n以食物为燃料的特殊多方块发电机。\n发电公式：食物饥饿值^2 × 线圈等级 × 机械方块等级 × 2 EU/t\n最高发电：1A MAX/t；支持 64 并行，每次最多烧毁一组相同食物。\n注意：污染过高时请放置消声仓防止跳电。\n赞美富婆 Safari_xiu！没有他就没有现在的 123T！",
+      "desc:8": "§a[Tier 3 HV] Food Generator§r\nA special multiblock generator that burns food for fuel.\nPower formula: (food hunger value)^2 × coil tier × machine-casing tier × 2 EU/t.\nMaximum output: 1 A at MAX tier per tick. Supports 64 parallel operations and burns at most one stack of identical food per cycle.\nWarning: install a Muffler Hatch if pollution gets too high to prevent power trips.\nPraise Safari_xiu! 123T would not be what it is today without them!",
       "globalShare:1": 0,
       "icon:10": {
         "Count:3": 1,
@@ -13,7 +13,7 @@
       "isMain:1": 0,
       "isSilent:1": 0,
       "lockedProgress:1": 0,
-      "name:8": "【Tier 3 HV】食物发电机",
+      "name:8": "[Tier 3 HV] Food Generator",
       "questLogic:8": "AND",
       "repeatTime:3": -1,
       "repeat_relative:1": 1,
@@ -24,8 +24,8 @@
       "visibility:8": "NORMAL"
     }
   },
-  "questIDHigh:4": 7097361839427765517,
-  "questIDLow:4": -7088017643133830396,
+  "questIDHigh:4": 7097361839427765000,
+  "questIDLow:4": -7088017643133830000,
   "rewards:9": {},
   "tasks:9": {
     "0:10": {
@@ -48,8 +48,8 @@
   },
   "preRequisites:9": {
     "0:10": {
-      "questIDHigh:4": 7722944585155103069,
-      "questIDLow:4": -9190758031382520942
+      "questIDHigh:4": 7722944585155103000,
+      "questIDLow:4": -9190758031382521000
     }
   }
 }

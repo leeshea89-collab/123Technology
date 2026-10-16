@@ -2,7 +2,7 @@
   "properties:10": {
     "betterquesting:10": {
       "autoClaim:1": 0,
-      "desc:8": "§a【Tier 10 UEV】巨龙之墓（黑龙驭者）§r\n老登的终极造物——黑龙驭者（新式龙研聚合装置）。\n并行 = 机械方块等级 * 128，最高等级解锁 int 并行。\n耗时倍率 = 1 - 0.05 * 线圈等级；三级机械方块解锁无损超频。\n机械方块等级决定可执行的配方等级，更换结构时请重放主机检测。",
+      "desc:8": "§a[Tier 10 UEV] Dragon's Grave (Black Dragon Tamer)§r\nA veteran's ultimate creation: the Black Dragon Tamer, a new-style Dragon Research aggregation machine.\nParallel operations = machine-casing tier × 128; the highest tier unlocks integer-max parallel.\nDuration multiplier = 1 - 0.05 × coil tier. Tier 3 machine casings unlock perfect overclocking.\nMachine-casing tier determines which recipe tiers can run. Re-place the controller after changing the structure to trigger a new check.",
       "globalShare:1": 0,
       "icon:10": {
         "Count:3": 1,
@@ -13,7 +13,7 @@
       "isMain:1": 0,
       "isSilent:1": 0,
       "lockedProgress:1": 0,
-      "name:8": "【Tier 10 UEV】巨龙之墓（黑龙驭者）",
+      "name:8": "[Tier 10 UEV] Dragon's Grave (Black Dragon Tamer)",
       "questLogic:8": "AND",
       "repeatTime:3": -1,
       "repeat_relative:1": 1,
@@ -24,8 +24,8 @@
       "visibility:8": "NORMAL"
     }
   },
-  "questIDHigh:4": -1204911824894343714,
-  "questIDLow:4": -5399117857039591819,
+  "questIDHigh:4": -1204911824894343700,
+  "questIDLow:4": -5399117857039591000,
   "rewards:9": {},
   "tasks:9": {
     "0:10": {
@@ -48,8 +48,8 @@
   },
   "preRequisites:9": {
     "0:10": {
-      "questIDHigh:4": 7722944585155103069,
-      "questIDLow:4": -9190758031382520942
+      "questIDHigh:4": 7722944585155103000,
+      "questIDLow:4": -9190758031382521000
     }
   }
 }

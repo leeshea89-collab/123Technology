@@ -2,7 +2,7 @@
   "properties:10": {
     "betterquesting:10": {
       "autoClaim:1": 0,
-      "desc:8": "§a【Tier 1 LV】盖世神功垃圾桶§r\n盖世神功垃圾桶——大容量多方块储存/销毁设施。\n可吞噬大量物品和液体，适用于大规模副产品处理场景。\n容量远超普通桶或箱，是废料管理的理想选择。",
+      "desc:8": "§a[Tier 1 LV] Legendary Trash Bin§r\nThe Legendary Trash Bin is a high-capacity multiblock for storing or destroying materials.\nIt can consume large quantities of items and fluids, making it useful for handling industrial by-products.\nIts capacity far exceeds an ordinary bin or chest, making it ideal for waste management.",
       "globalShare:1": 0,
       "icon:10": {
         "Count:3": 1,
@@ -13,7 +13,7 @@
       "isMain:1": 0,
       "isSilent:1": 0,
       "lockedProgress:1": 0,
-      "name:8": "【Tier 1 LV】盖世神功垃圾桶",
+      "name:8": "[Tier 1 LV] Legendary Trash Bin",
       "questLogic:8": "AND",
       "repeatTime:3": -1,
       "repeat_relative:1": 1,
@@ -24,8 +24,8 @@
       "visibility:8": "NORMAL"
     }
   },
-  "questIDHigh:4": -8940520277995012008,
-  "questIDLow:4": -7654461566973264773,
+  "questIDHigh:4": -8940520277995012000,
+  "questIDLow:4": -7654461566973265000,
   "rewards:9": {},
   "tasks:9": {
     "0:10": {
@@ -48,8 +48,8 @@
   },
   "preRequisites:9": {
     "0:10": {
-      "questIDHigh:4": 7722944585155103069,
-      "questIDLow:4": -9190758031382520942
+      "questIDHigh:4": 7722944585155103000,
+      "questIDLow:4": -9190758031382521000
     }
   }
 }

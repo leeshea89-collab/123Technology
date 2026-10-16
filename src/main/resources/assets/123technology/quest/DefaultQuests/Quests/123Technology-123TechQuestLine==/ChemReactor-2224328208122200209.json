@@ -2,7 +2,7 @@
   "properties:10": {
     "betterquesting:10": {
       "autoClaim:1": 0,
-      "desc:8": "§a【Tier 6 LuV】铑钯蜜汁化工厂§r\n老登的终极造物——铑钯反应釜（化学反应釜 & 化工厂）。\n以 LuV 级铑(Rh)/钯(Pd)催化剂为核心的神秘化工集成机器。\n化工厂模式：耗时=NEI耗时*(1-线圈等级*0.15)，最低0.1；并行16。\n大型化学反应釜模式：耗时=NEI耗时*(1-线圈等级*0.1)；无限并行，无损超频。\n玻璃等级决定化工厂等级（化工厂等级 = 玻璃信道等级 - 3）。",
+      "desc:8": "§a[Tier 6 LuV] Rhodium-Palladium Chemical Plant§r\nA veteran's ultimate creation: an Rh/Pd reaction vessel combining a Chemical Reactor and Chemical Plant.\nA mysterious integrated chemical machine using LuV-tier rhodium (Rh) and palladium (Pd) catalysts.\nChemical Plant mode: duration = NEI duration × (1 - coil tier × 0.15), minimum multiplier 0.1; parallel: 16.\nLarge Chemical Reactor mode: duration = NEI duration × (1 - coil tier × 0.1); unlimited parallel operations and perfect overclocking.\nGlass tier determines Chemical Plant tier (plant tier = glass-channel tier - 3).",
       "globalShare:1": 0,
       "icon:10": {
         "Count:3": 1,
@@ -13,7 +13,7 @@
       "isMain:1": 0,
       "isSilent:1": 0,
       "lockedProgress:1": 0,
-      "name:8": "【Tier 6 LuV】铑钯蜜汁化工厂",
+      "name:8": "[Tier 6 LuV] Rhodium-Palladium Chemical Plant",
       "questLogic:8": "AND",
       "repeatTime:3": -1,
       "repeat_relative:1": 1,
@@ -24,8 +24,8 @@
       "visibility:8": "NORMAL"
     }
   },
-  "questIDHigh:4": 2224328208122200209,
-  "questIDLow:4": -8378931843435053465,
+  "questIDHigh:4": 2224328208122200300,
+  "questIDLow:4": -8378931843435053000,
   "rewards:9": {},
   "tasks:9": {
     "0:10": {
@@ -48,8 +48,8 @@
   },
   "preRequisites:9": {
     "0:10": {
-      "questIDHigh:4": 7722944585155103069,
-      "questIDLow:4": -9190758031382520942
+      "questIDHigh:4": 7722944585155103000,
+      "questIDLow:4": -9190758031382521000
     }
   }
 }
